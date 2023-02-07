@@ -1,1 +1,1 @@
-My frist readme
+# Woah, Git is Amazing, & I'm Loving ALX!
